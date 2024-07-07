@@ -229,7 +229,7 @@ input[type="submit"]:hover {
     padding: 50px;
     background-color: transparent;
     border-radius: 20px;
-    border: 2px solid; white;
+    border: 2px solid  white;
     height: 200px;
 }
 
@@ -334,12 +334,7 @@ li:hover .fa-globe + a {
   color: #3498DB; /* Digital Marketing blue-green color */
    text-decoration: none;
 }
-#projects a {
 
-}
-#projects a :hover{
-
-}
 ul {
   list-style: none;
   padding: 0;
@@ -353,7 +348,6 @@ ul {
 
 #projects li a {
   text-decoration: none;
-  color: ;
   transition: color 0.2s ease;
 }
 
